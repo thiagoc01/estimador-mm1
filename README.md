@@ -48,6 +48,8 @@ O programa lê a quantidade de arquivos passada baseado no caminho. Por exemplo,
 
 Se o caminho não for especificado, assume-se que todos os arquivos estão no diretório do executável.
 
+Qualquer arquivo que contenha números inteiros representando o número de clientes é utilizável aqui. Caso você queira testar ou utilizar uma simulação base, utilize o simulador em https://github.com/simulador-mm1.
+
 <br>
 
 # Instalação de dependências
